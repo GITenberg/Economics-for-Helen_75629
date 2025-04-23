@@ -1,0 +1,61 @@
+_repo: Economics-for-Helen_75629
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Belloc, Hilaire
+    aliases:
+    - Belloc, Joseph Hilaire Pierre
+    - Belloc, H.
+    birthdate: 1870
+    deathdate: 1953
+    gutenberg_agent_id: '2437'
+    url: http://www.gutenberg.org/2009/agents/2437
+    wikipedia: https://en.wikipedia.org/wiki/Hilaire_Belloc
+description: 'Reading ease score: 62.8 (8th & 9th grade). Neither easy nor difficult
+  to read.'
+edition_note: Second edition
+gutenberg_bookshelf: 'Browsing: Economics'
+gutenberg_issued: '2025-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75629'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uc1.b3257015
+pgterms:marc905: 20200414074342belloc
+pgterms:marc906: '1924'
+pgterms:marc907: GB
+production_note: Tim Lindell and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aLondon :$bJ. W. Arrowsmith, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Economics'
+- !lcsh 'Wealth'
+- !lcc 'HB'
+- GITenberg
+summary: '"Economics for Helen" by Hilaire Belloc is a non-fiction work written in
+  the early 20th century. The book serves as an introductory text on economic principles,
+  aiming to clarify the concept of wealth and its various implications within society.
+  Belloc systematically lays out fundamental economic concepts, making it accessible
+  for readers unfamiliar with the field.  At the start of the text, Belloc outlines
+  the definition of economics as the study of wealth and emphasizes the importance
+  of understanding what wealth truly is. He distinguishes between material possessions
+  and the economic values attached to them, stressing that wealth lies in the ability
+  to exchange these values. He introduces key elements necessary for wealth production:
+  land, labor, and capital, explaining how each component contributes to the creation
+  and distribution of economic wealth. Overall, the opening portion lays a foundational
+  understanding of economic concepts designed to engage and enlighten readers about
+  the mechanisms that drive wealth and prosperity in society. (This is an automatically
+  generated summary.)'
+tableOfContents: 'What is wealth? -- The three things necessary to the production
+  of wealth: land, labour and capital -- The process of production -- The three parts
+  into which the wealth produced naturally divides itself: rent, interest, subsistence
+  -- Exchange -- Free trade and protection -- Money -- Introduction [political applications]
+  -- Property: the control of wealth -- The servile state -- The capitalist state
+  -- The distributive state -- Socialism -- International exchange -- Free trade and
+  protection as political issues -- Banking -- National loans and taxation -- The
+  social (or historical) value of money -- Usury -- Economic imaginaries.'
+title: Economics for Helen
+url: http://www.gutenberg.org/ebooks/75629
